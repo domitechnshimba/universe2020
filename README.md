@@ -1,6 +1,6 @@
 <img src="images/GitHub-Universe-logo-2020.svg" width="300" alt="GitHub Universe Virtual 2020">
 
-[https://githubuniverse.com/](https://githubuniverse.com/)
+Visit the Officical Weboste: [https://githubuniverse.com](https://githubuniverse.com/)
 &nbsp;•&nbsp;
 [Schedule](https://githubuniverse.com/schedule/)
 &nbsp;•&nbsp;
