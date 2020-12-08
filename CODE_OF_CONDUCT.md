@@ -6,7 +6,7 @@ With this Code of Conduct, we hope to help you understand how best to collaborat
 
 GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub Universe a welcoming environment for all the different voices and perspectives here, while maintaining a space where people are free to express themselves.
 
-### Pledge
+## Pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in the GitHub Universe Discussions a harassment-free experience for everyone, regardless of age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
@@ -30,7 +30,7 @@ Treat the GitHub Universe Discussions with respect. The following are not hard a
 
     This applies to sharing links, as well. Any links shared in the discussions should be shared with the intent of providing relevant and appropriate information. Links should not be posted to simply drive traffic or attention to a site. Links should always be accompanied by a full explanation of the content and purpose of the link. Posting links, especially unsolicited ones, without relevant and valuable context can come across as advertising or serving even more malicious purposes.
 
-  - **Share mindfully.** Don't share sensitive information. This includes your own email address. We don't allow the sharing of such information in this discussion forum, as it can create security and privacy risks for the poster, as well as other users. 
+  - **Share mindfully.** Don't share sensitive information. This includes your own email address. We don't allow the sharing of such information in this discussion forum, as it can create security and privacy risks for the poster, as well as other users.
   - **Keep it tidy.** Make the effort to put things in the right place, so that we can spend more time discussing and less time cleaning up. So:
     - Don’t cross-post the same thing in multiple topics.
     - Don’t post no-content replies.
@@ -80,10 +80,11 @@ There are a variety of actions that we may take in response to inappropriate beh
 Each case requires a different approach, and we try to tailor our response to meet the needs of the situation. We'll review each situation on a case-by-case basis. In each case, we will have a diverse team investigate the content and surrounding facts and respond as appropriate, using this Code of Conduct to guide our decision.
 
 Actions we may take in response to a flag or abuse report include, but are not limited to:
-  - Content Removal
-  - Content Blocking
-  - GitHub Account Suspension
-  - GitHub Account Termination
+
+- Content Removal
+- Content Blocking
+- GitHub Account Suspension
+- GitHub Account Termination
 
 ### Contacting GitHub Staff
 
